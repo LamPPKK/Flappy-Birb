@@ -1,5 +1,5 @@
 # Flappy-Birb
-An SDL2/C++ version of the famous game by Dothttps://github.com/ShockCoding/Flappy-Birb/pulseGEARS Studio!
+An SDL2/C++ version of the famous game by DotGEARS Studio!
 
 I started learning SDL2, and the first thing I wanted to make was a C++ version of Flappy Birb, and here it is!
 The folder "release" contains an already compiled Microsoft 64-bit version, so you just have to download it, and play!
